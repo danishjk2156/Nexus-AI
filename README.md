@@ -9,6 +9,7 @@
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose%20M3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Zero Egress](https://img.shields.io/badge/Privacy-0%20Bytes%20Uploaded-00C853?style=for-the-badge&logo=privateinternetaccess&logoColor=white)](#-8-security--privacy-architecture)
 [![Qualcomm NPU](https://img.shields.io/badge/Inference-Hexagon%20NPU%20%7C%20QNN-FF7043?style=for-the-badge&logo=qualcomm&logoColor=white)](https://developer.qualcomm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Nexus--AI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danishjk2156/Nexus-AI)
 
 <p align="center">
   <b>Speak a command in Hindi, English, or 99+ languages. The on-device AI generates a validated edit plan and executes multi-step video edits directly on your phone's NPU and GPU — zero cloud egress, zero latency wait, zero subscriptions.</b>
@@ -392,8 +393,8 @@ graph TD
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/nexusai-studio.git
-   cd nexusai-studio
+   git clone https://github.com/danishjk2156/Nexus-AI.git
+   cd Nexus-AI
    ```
 
 2. **Verify project configuration**:
